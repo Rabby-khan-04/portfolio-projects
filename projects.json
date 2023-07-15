@@ -56,7 +56,7 @@
   {
     "id": 4,
     "title": "Platform for Photography",
-    "description": "he Platform for Photography is a captivating online platform built using React and React Router, showcasing the artistry and creativity of photographers from around the world. With its beautiful design and seamless user experience.",
+    "description": "The Platform for Photography is a captivating online platform built using React and React Router, showcasing the artistry and creativity of photographers from around the world. With its beautiful design and seamless user experience.",
     "tech": [
       { "name": "React", "icon": "https://i.ibb.co/WWG28t2/react.png" },
       {
